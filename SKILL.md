@@ -1,6 +1,6 @@
 ---
 name: content-strategy-vi
-description: Xây dựng hệ thống nội dung tiếng Việt dựa trên mục tiêu thương hiệu, độc giả, kênh và nguồn lực hiện có. Dùng khi lập trụ cột, cụm chủ đề, chiến dịch hoặc lịch xuất bản thực tế.
+description: Lập kế hoạch nội dung đa kênh theo mục tiêu, độc giả, nguồn lực và dữ liệu sẵn có. Dùng để chọn trụ cột, chủ đề và lịch; không thay brief cho một bài SEO.
 ---
 
 # Chiến lược nội dung thực tế
@@ -31,14 +31,14 @@ Không tự giả định số bài/tuần. Nếu thiếu năng lực, lập b�
 5. Xác định bài nào nên ở website làm tài sản tìm kiếm, bài nào nên đăng fan page để trò chuyện/chia sẻ, bài nào chuyển thành video.
 6. Chọn lịch dựa trên thời gian sản xuất và duyệt. Có thể chọn một bài blog mỗi tuần và vài nội dung tái sử dụng, thay vì đặt lịch dày mà không duy trì được.
 7. Gắn CTA phù hợp vào từng nội dung; không dùng một lời kêu gọi bán hàng cho mọi bài.
-8. Gắn chỉ số với mục tiêu: lượt hiển thị/tìm kiếm, nhấp vào bài, thời gian đọc nếu có, lưu/chia sẻ/bình luận, đăng ký hoặc tải.
+8. Gắn chỉ số với mục tiêu: lượt hiển thị/tìm kiếm, nhấp, thời gian đọc nếu có, lưu/chia sẻ/bình luận, đăng ký hoặc tải. Ghi baseline và mục tiêu có thời hạn nếu người dùng cung cấp; nếu chưa có baseline, đánh dấu chưa có và đề xuất thời gian thu thập trước khi đặt mục tiêu. Không tự đặt target.
 9. Dành chỗ cho cập nhật nội dung cũ và thử nghiệm. Không lấp toàn bộ lịch bằng chủ đề mới.
 
 ## Đầu ra
 
 1. Tóm tắt mục tiêu, nhóm độc giả và giả định.
 2. Bảng trụ cột: tên, nhu cầu, định dạng, CTA và chỉ số.
-3. Danh sách 8–20 chủ đề có mức ưu tiên, định dạng chính và lý do.
+3. Danh sách chủ đề đủ lấp lịch theo nguồn lực, thường 8–20 nếu phù hợp; ghi mức ưu tiên, định dạng và lý do. Không ép đủ số lượng khi thời gian sản xuất thấp.
 4. Lịch 2–4 tuần theo năng lực thật.
 5. Một đường đi mẫu: bài blog → bài fan page → video ngắn → CTA.
 6. Danh sách dữ liệu cần xem sau khi xuất bản.
